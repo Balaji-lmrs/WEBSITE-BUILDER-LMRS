@@ -1,0 +1,7 @@
+**/node_modules/
+**/.vite/
+**/tsconfig.tsbuildinfo
+**/write-test.tmp
+**/netlify-restore-*
+**/xlsx_work/
+**/outputs/
